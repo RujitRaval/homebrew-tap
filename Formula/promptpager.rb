@@ -7,8 +7,8 @@
 class Promptpager < Formula
   desc "Agent & terminal remote bridge for iPhone + Apple Watch"
   homepage "https://github.com/RujitRaval/promptpager"
-  url "https://registry.npmjs.org/@rujitraval/promptpager/-/promptpager-0.2.2.tgz"
-  sha256 "ff2d20c8ef5bc49cd7380db54a125c7edee0f6d6fbba267249dfcf69486b360b"
+  url "https://registry.npmjs.org/@rujitraval/promptpager/-/promptpager-0.3.0.tgz"
+  sha256 "2bdbeb41e333500329eb24fb8d983505418700fef593cbcca843735bb5957676"
   license "MIT"
 
   depends_on "node"
